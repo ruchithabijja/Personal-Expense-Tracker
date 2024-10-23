@@ -1,5 +1,4 @@
 # Personal-Expense-Tracker
-Developed a command-line application for users to manage and track their personal expenses across different categories.
 Personal Expense Tracker
 Description
 The Personal Expense Tracker is a command-line application built using Python. It allows users to manage and track their personal expenses across different categories. Users can add expenses, view a summary of all expenses, and interact with the program through a simple and user-friendly menu.
